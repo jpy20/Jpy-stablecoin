@@ -18,7 +18,7 @@ function NavBar () {
                         </div>
                     </div>
                     <ul className="flex justify-center items-center text-[16px] space-x-5 text-black sm:hidden md:hidden lg:flex">
-                        <li className="text-center font-medium"><a className='pr-3' href="/useage">JPY20</a></li>
+                        <li className="text-center font-medium"><a className='pr-3' href="/useage">Zencoin</a></li>
                         <li className="text-center font-medium"><a className=' pr-3' href="/">Solutions</a></li>
                         <li className="text-center font-medium"><a className='pr-3' href="/">Product</a></li>
                         <li className="text-center font-medium"><a className='pr-3' href="/">Developer</a></li>
@@ -29,7 +29,7 @@ function NavBar () {
                     </ul>
                     <div className={!nav ? 'fixed left-[-100%]' : 'fixed left-0 top-0 w-[40%] text-black mt-[76px] h-full bg-[#E4E4E4] shadow-md ease-in-out duration-500 sm:w-[80%] md:w-[40%] lg:hidden'}>
                         <ul className="uppercase w-full p-12 space-y-6">
-                            <li className="font-medium"><a className='' onClick={showNav} href="/useage">JPY20</a></li>
+                            <li className="font-medium"><a className='' onClick={showNav} href="/useage">Zencoin</a></li>
                             <li className="font-medium"><a className='' onClick={showNav} href="/">Solutions</a></li>
                             <li className="font-medium"><a className='' onClick={showNav} href="/">Product</a></li>
                             <li className="font-medium"><a className='' onClick={showNav} href="/">Developer</a></li>

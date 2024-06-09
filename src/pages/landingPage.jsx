@@ -18,23 +18,23 @@ function LandingPage () {
                     <img className='w-[45%] sm:w-[60%] md:w-[30%] lg:w-[45%]' src="/Images/Frame 3.png" alt="" srcSet="" />
                 </div>
                 <div className='mt-[40px]'>
-                    <h1 className='font-bold text-[45px] w-[80%] mb-[20px] sm:w-full sm:text-[35px] lg:w-[80%] lg:text-[45px]'>Fully Backed   digital Japan currency</h1>
-                    <p className='text-[18px] font-medium w-[70%] mb-[20px] sm:w-full md:w-[70%] lg:w-[70%]'>Built for rapid global payment  and 24/7 financial markets, JPY:YEN  is  a regulated digital currency that can be redeem for yen currency </p>
-                    <a href=""><button className='text-red-700 px-[20px] py-[8px] rounded-b-md pl-[2px]' type="button">GET STARTED WITH JPY:YEN</button></a>
+                    <h1 className='font-bold text-[45px] w-[80%] mb-[20px] sm:w-full sm:text-[35px] lg:w-[80%] lg:text-[45px]'>Fully Backed digital Japan currency</h1>
+                    <p className='text-[18px] font-medium w-[80%] mb-[20px] sm:w-full md:w-[70%] lg:w-[80%]'>Built for rapid global payment and 24/7 financial markets, Zencoin  is  a regulated digital currency that can be redeem for yen currency. By merging your tokem with our Japan stablecoin, you ensure a steady and substantial liquidity pool. This means your users can trade more freely and efficiently, with reduced price volatility and slippage.</p>
+                    <a href=""><button className='text-red-700 px-[20px] py-[8px] rounded-b-md pl-[2px]' type="button">GET STARTED WITH Zencoin</button></a>
                 </div>
             </div>
             <section id="" className='bg-[#E10B0B] px-20 sm:p-[25px] md:p-[25px] lg:px-20'  data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-                <h1 className='text-white text-bold text-[40px] w-[50%] sm:w-full sm:text-[30px] md:w-[70%] lg:w-[50%] lg:text-[40px]'>why businesses needs to choose JPY20</h1>
-                <p className='text-white text-[20px] mt-[20px] w-[55%] sm:w-full sm:text-[16px] md:w-[70%] lg:w-[55%] lg:text-[20px]'>JPY20 works seamlessly across applications and platforms around the globe using blockchain infrastructure and merging it with a traditional currency makes it faster, less expensive, and more customizable than legacy rails. </p>
+                <h1 className='text-white text-bold text-[40px] w-[50%] sm:w-full sm:text-[30px] md:w-[70%] lg:w-[50%] lg:text-[40px]'>why businesses needs to choose Zencoin</h1>
+                <p className='text-white text-[20px] mt-[20px] w-[55%] sm:w-full sm:text-[16px] md:w-[70%] lg:w-[55%] lg:text-[20px]'>Zencoin works seamlessly across applications and platforms around the globe using blockchain infrastructure and merging it with a traditional currency makes it faster, less expensive, and more customizable than legacy rails. </p>
                 <div className="grid grid-cols-3 gap-[2rem] mt-10 sm:grid-cols-1 md:grid-cols-1 lg:grid-cols-3" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
                     <div className='bg-white py-[20px] px-[30px] rounded-md'>
                         <h2 className='font-bold mb-[40px] text-center text-[20px] sm:mb-[20px] lg:mb-[40px]'>Stable and regulated</h2>
-                        <p className=''>Jpy20 is  regulated and fully reserved. Reserved are transparently held at regulated financial institution</p>
+                        <p className=''>Zencoin is  regulated and fully reserved. Reserved are transparently held at regulated financial institution</p>
                         <p className='mt-[30px] sm:text-[15px] lg:text-[16px]'>Unregulated, non-transparent currency take risk with their reserves</p>
                     </div>
                     <div className='bg-white py-[20px] px-[30px] rounded-md'>
                         <h2 className='font-bold mb-[40px] text-center text-[20px] sm:mb-[20px] lg:mb-[40px]'>Instant settlement</h2>
-                        <p className='sm:text-[15px] lg:text-[16px]'>Jpy20 transaction can settle in seconds worldwid. All day, everyday</p>
+                        <p className='sm:text-[15px] lg:text-[16px]'>Zencoin transaction can settle in seconds worldwid. All day, everyday</p>
                     </div>
                     <div className='bg-white py-[20px] px-[30px] rounded-md'>
                         <h2 className='font-bold mb-[40px] text-center text-[20px] sm:mb-[20px] lg:mb-[40px]'>Zero cost</h2>
@@ -44,7 +44,7 @@ function LandingPage () {
             </section>
             <section className='px-[90px] py-[60px] sm:px-[30px] lg:px-[90px]'>
                 <h1 className='text-[40px] font-bold mb-[30px] sm:text-[30px] lg:text-[40px]'>Stability & global Reach </h1>
-                <p className='w-[55%] text-[17px] sm:w-full sm:text-[16px] md:w-[70%] lg:text-[17px]'>JPY20 enables local,digital businesses to offer payment connectivity, enabled trading in blockchain platform which serves as investment in brokerages, fundings, payment integration and supply chain and b2b payment settlement.</p>
+                <p className='w-[55%] text-[17px] sm:w-full sm:text-[16px] md:w-[70%] lg:text-[17px]'>Zencoin enables local,digital businesses to offer payment connectivity, enabled trading in blockchain platform which serves as investment in brokerages, fundings, payment integration and supply chain and b2b payment settlement.</p>
                 <div>
                     <div className='grid grid-cols-4 gap-4 mt-[30px] sm:grid-cols-2 md:grid-cols-4 lg:grid-cols-4'>
                         <div>
@@ -67,9 +67,9 @@ function LandingPage () {
                 </div>
             </section>
             <section id="" className='pt-[60px] px-[90px] sm:px-[20px] lg:px-[90px]'  data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
-                <h1 className='font-bold text-[30px] mb-[20px] sm:text-[25px] lg:text-[30px]'>Get JPY20 TO YOUR BUSINESS</h1>
+                <h1 className='font-bold text-[30px] mb-[20px] sm:text-[25px] lg:text-[30px]'>Get Zencoin TO YOUR BUSINESS</h1>
                 <div className='grid grid-cols-2 gap-4 items-center sm:grid-cols-1 lg:grid-cols-2'>
-                    <p className='font-medium w-[70%] sm:w-full md:w-[70%] lg:w-[70%]'>JPY20 allow businesses, platform to receive, trade currency in both fiat currency and stablecoin. All in one currency a stablecoin merge to native currency.</p>
+                    <p className='font-medium w-[70%] sm:w-full md:w-[70%] lg:w-[70%]'>Zencoin allow businesses, platform to receive, trade currency in both fiat currency and stablecoin. All in one currency a stablecoin merge to native currency.</p>
                     <div className='flex justify-center items-center'>
                         <img className='w-[50%] md:w-[30%]' src="/Images/Yen Coin.png" alt="" srcSet="" />
                     </div>
